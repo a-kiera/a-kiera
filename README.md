@@ -9,6 +9,5 @@ Outside of tech you can find me sketching portraits, falling into rabbit holes a
 ### Let's connect :)
 
 
-[https://img.shields.io/badge/Title-37a779?style=for-the-badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famy-macleod-191010263%2F
-)
+[!Linkedin](https://img.shields.io/badge/Title-37a779?style=for-the-badge)](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famy-macleod-191010263%2F)
 
