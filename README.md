@@ -8,9 +8,8 @@ Outside of tech you can find me sketching portraits, falling into rabbit holes a
 
 ### Let's connect :)
 
-[![Button Example]](Link)
+[![Button Example]](https://www.linkedin.com/in/amy-macleod-191010263/)
 <!----------------------------------------------------------------------------->
-[Link]: (https://www.linkedin.com/in/amy-macleod-191010263/) 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Example]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge
 
